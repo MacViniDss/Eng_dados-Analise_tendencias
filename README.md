@@ -44,7 +44,7 @@ Este gráfico de combinação é crucial para demonstrar a relação inversa ent
 
 Este gráfico de colunas destaca o ponto de dados que foge do padrão.
 
-![Gráfico de Anomalia na Contagem de Estoque no Dia 3](Graphs/Anomalia_em_Produtos_em_Estoque)
+![Gráfico de Anomalia na Contagem de Estoque no Dia 3](Graphs/Anomalia_em_Produtos_em_Estoque.png)
 
 ***Destaque Visual:** A coluna referente ao **Dia 3** é visivelmente mais baixa, evidenciando a anomalia.
 
