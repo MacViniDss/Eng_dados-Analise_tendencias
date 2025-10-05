@@ -36,7 +36,7 @@ As visualizações a seguir demonstram graficamente as tendências de degradaç�
 
 Este gráfico de combinação é crucial para demonstrar a relação inversa entre as métricas.
 
-**\[INCLUA AQUI O GRÁFICO DE COMBINAÇÃO (matplotlib/seaborn) QUE VOCÊ GEROU]**
+![Gráfico de Tendência de Falhas no Sistema](Sucesso_X_Erros.png)
 
 ***Destaque Visual:** As linhas formam uma "tesoura", onde a linha azul (Sucesso) cai enquanto a linha vermelha (Erros) sobe, confirmando a correlação.
 
