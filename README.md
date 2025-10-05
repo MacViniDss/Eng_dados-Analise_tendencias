@@ -22,7 +22,7 @@ A análise dos dados aponta para uma **degradação sistêmica** e uma forte cor
 
 ### Conclusões Chave:
 
-1.  **Confiabilidade em Queda Livre:** A proporção de acessos bem-sucedidos caiu de **96,7%** (Dia 1) para **89,5%** (Dia 0), indicando que o sistema está falhando em processar solicitações cada vez mais frequentemente.
+1.  **Confiabilidade em Queda Livre:** A proporção de acessos bem-sucedidos caiu de **96,7%** (Dia 1) para **89,5%** (Dia 10), indicando que o sistema está falhando em processar solicitações cada vez mais frequentemente.
 2.  **Causa Raiz: Módulo de Estoque:** No mesmo período, a **Proporção de Operações com Erros** no módulo de atualização de estoque disparou de **1% para 9%**. Este módulo é o principal vetor de instabilidade, provavelmente devido a **gargalos de concorrência ou *timeouts***.
 3.  **Anomalia de Contagem:** Foi identificada uma queda atípica nos **Produtos em Estoque (%)** no **Dia 3** (de 63,0% para 52,8%), que requer auditoria de logs para verificar se foi um erro de contagem ou um evento operacional não registrado.
 
